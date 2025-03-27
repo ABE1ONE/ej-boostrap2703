@@ -1,0 +1,16 @@
+/*HOJA DE ESTILOS PERSONZALIZADA*/
+
+body{
+    background-color: lightblue;
+}
+
+.principal {
+    background-color: rgba(255, 255, 255, 0.5);
+    padding: 20px;
+    border-radius: 4px;
+    margin-top: 20px;
+}
+
+.ej-columnas{
+    background-color: rgba(200, 200, 200, 0.8);
+}
